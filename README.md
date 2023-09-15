@@ -1,11 +1,11 @@
 ### Hi there, I'm Long.Nguyen - mrlongg71 👋 🇻🇳🇻🇳🇻🇳 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Mobile Developer!
+## I'm a Mobile Developer! ![](https://komarev.com/ghpvc/?username=MrLongg71)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 I can code Frontend with Android and Flutter
 - 🥅 I can code Backend with NodeJS and Golang
-- ⚡ 2021 - I will upload my project on my github and share for everyone
+- ⚡ 2023 - I will upload my project on my github and share for everyone.
 
 ### Connect with me:
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrlongg71)
@@ -27,9 +27,3 @@
 
 <br />
 <br />
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="mrlongg71's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
- </details>
